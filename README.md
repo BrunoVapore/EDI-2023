@@ -8,3 +8,5 @@ Para envitar cambios a nuestro repositorio:
 2.- [consola] git add . o git add <nombre del archivo/carpeta>
 3.- [consola] git commit -m"mensaje del commit"
 4.- [consola] git push origin main
+
+url del repositorio de la clase: https://github.com/giskeimel-c1/edi-2023.git
